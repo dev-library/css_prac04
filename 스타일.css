@@ -1,0 +1,59 @@
+.page {
+    background-color: gray;
+    width: 800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-color: navy;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    width: 600px;
+}
+.tiger {
+    color: white;
+    font-size: xx-large;
+}
+.yellow {
+    color: yellow;
+    font-size: large;
+}
+.grey {
+    color: darkgray;
+    font-size: x-large;
+}
+section {
+    overflow: hidden;
+}
+.menu {
+    background-color: lightgray;
+    float: left;
+    width: 120px;
+}
+ul{
+   list-style: none;
+   font-family: '굴림';
+}
+.context {
+    float: right;
+}
+.subtitle {
+    background-color: darkred;
+    color: yellow;
+    font-style: cursive;
+    padding-left: 15px;
+    width: 480px;
+}
+.text {
+    font-family: '굴림';
+    padding: 15px;
+    width: 480px;
+    background-color: #fff;
+}
+.footer {
+    background-color: gray;
+    width: 600px;
+    padding-left: 15px;
+}
